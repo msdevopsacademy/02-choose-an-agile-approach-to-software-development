@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Choose an Agile approach to software development #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
